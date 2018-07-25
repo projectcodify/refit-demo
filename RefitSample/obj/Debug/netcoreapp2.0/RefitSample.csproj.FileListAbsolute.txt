@@ -1,0 +1,11 @@
+E:\workspace\BlogProjects\refit-demo\RefitSample\bin\Debug\netcoreapp2.0\RefitSample.deps.json
+E:\workspace\BlogProjects\refit-demo\RefitSample\bin\Debug\netcoreapp2.0\RefitSample.runtimeconfig.json
+E:\workspace\BlogProjects\refit-demo\RefitSample\bin\Debug\netcoreapp2.0\RefitSample.runtimeconfig.dev.json
+E:\workspace\BlogProjects\refit-demo\RefitSample\bin\Debug\netcoreapp2.0\RefitSample.dll
+E:\workspace\BlogProjects\refit-demo\RefitSample\obj\Debug\netcoreapp2.0\RefitSample.csprojAssemblyReference.cache
+E:\workspace\BlogProjects\refit-demo\RefitSample\obj\Debug\netcoreapp2.0\RefitSample.csproj.CoreCompileInputs.cache
+E:\workspace\BlogProjects\refit-demo\RefitSample\obj\Debug\netcoreapp2.0\RefitSample.AssemblyInfoInputs.cache
+E:\workspace\BlogProjects\refit-demo\RefitSample\obj\Debug\netcoreapp2.0\RefitSample.AssemblyInfo.cs
+E:\workspace\BlogProjects\refit-demo\RefitSample\bin\Debug\netcoreapp2.0\RefitSample.pdb
+E:\workspace\BlogProjects\refit-demo\RefitSample\obj\Debug\netcoreapp2.0\RefitSample.dll
+E:\workspace\BlogProjects\refit-demo\RefitSample\obj\Debug\netcoreapp2.0\RefitSample.pdb
